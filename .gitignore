@@ -1,0 +1,6 @@
+﻿# Files exceeding GitHub's 100MB limit
+data/raw/persuade_corpus_2.0_train.csv
+data/raw/persuade_corpus_2.0_test.csv
+data/processed/seg_emb.npz
+.ipynb_checkpoints/
+__pycache__/

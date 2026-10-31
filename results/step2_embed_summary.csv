@@ -1,0 +1,7 @@
+model,weights,macroF1_pooled,macroF1_mean_prompts,SD_prompts,F1_Ineffective,P_Ineffective,R_Ineffective,PR_AUC,prec_top5,recall_top5,lift_top5,base_rate
+S3 no text signal,argmax,0.464,0.43,0.062,0.004,0.273,0.002,0.072,0.083,0.218,4.363,0.022
+S3 no text signal,tuned,0.509,0.477,0.043,0.12,0.102,0.145,0.072,0.083,0.218,4.363,0.022
+S5 +embedding,argmax,0.469,0.427,0.069,0.012,0.409,0.006,0.078,0.09,0.225,4.497,0.022
+S5 +embedding,tuned,0.51,0.472,0.043,0.121,0.1,0.154,0.078,0.09,0.225,4.497,0.022
+S6 +embedding +context sims,argmax,0.466,0.425,0.071,0.007,0.25,0.003,0.074,0.093,0.234,4.678,0.022
+S6 +embedding +context sims,tuned,0.513,0.473,0.046,0.123,0.103,0.153,0.074,0.093,0.234,4.678,0.022

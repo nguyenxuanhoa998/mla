@@ -1,0 +1,4 @@
+so sánh,mean Δ (đề),SD (ddof=1),min,max,#đề Δ>0 /8,sign-test p,Δ pooled
+RQ1  gold structure                (M2 − M1),0.0177,0.0179,-0.0093,0.0399,6,0.2891,0.0132
+RQ1  predicted structure           (M3 − M1),0.0019,0.005,-0.0035,0.0091,5,0.7266,0.0016
+RQ2  mất khi dùng dự đoán          (M2 − M3),0.0157,0.0175,-0.0097,0.0432,7,0.0703,0.0116

@@ -1,0 +1,42 @@
+roles done Cell phones at school
+roles done Community service
+roles done Distance learning
+roles done Grades for extracurricular activities
+roles done Mandatory extracurricular activities
+roles done Phones and driving
+roles done Seeking multiple opinions
+roles done Summer projects
+Step-1 macro-F1 (held-out prompt): 0.675
+step3 done Cell phones at school
+step3 done Community service
+step3 done Distance learning
+step3 done Grades for extracurricular activities
+step3 done Mandatory extracurricular activities
+step3 done Phones and driving
+step3 done Seeking multiple opinions
+step3 done Summer projects
+algo model  pooled_QWK  pooled_MAE  mean_QWK_prompts  std_QWK  worst_QWK
+  GB    M1       0.837       0.349             0.751    0.032      0.694
+  GB    M2       0.855       0.318             0.775    0.034      0.737
+  GB    M3       0.845       0.336             0.763    0.028      0.733
+  RF    M1       0.833       0.354             0.743    0.033      0.691
+  RF    M2       0.844       0.336             0.756    0.041      0.693
+  RF    M3       0.835       0.349             0.746    0.030      0.700
+algo                                          comparison  dQWK  ci_lo  ci_hi  prompts_higher
+  GB            M2 - M1  (RQ1: gain from gold structure) 0.018  0.013  0.022               8
+  GB       M3 - M1  (RQ1: gain from predicted structure) 0.008  0.004  0.011               8
+  GB M2 - M3  (RQ2: loss from using predicted structure) 0.010  0.006  0.014               7
+  RF            M2 - M1  (RQ1: gain from gold structure) 0.010  0.007  0.014               6
+  RF       M3 - M1  (RQ1: gain from predicted structure) 0.001 -0.002  0.004               5
+  RF M2 - M3  (RQ2: loss from using predicted structure) 0.009  0.006  0.013               5
+n_chars                      0.647176
+n_unique                     0.122758
+n_sents                      0.034969
+n_segments                   0.021912
+syl_per_word                 0.014930
+n_commas                     0.014710
+avg_word_len                 0.012477
+words_evidence               0.012360
+rebuttal_per_counterclaim    0.011671
+n_distinct_roles             0.011350
+dtype: float64

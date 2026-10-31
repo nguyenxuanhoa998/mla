@@ -1,0 +1,9 @@
+,mean ΔQWK khi xáo nhóm,SD qua 8 đề,min,max
+length (LEN_EXT + raw counts),0.5449,0.042,0.4842,0.6112
+STRUCTURE (gold),0.088,0.0163,0.0596,0.1067
+lexical,0.0098,0.0074,-0.0004,0.0184
+readability,0.007,0.009,-0.0025,0.0197
+sentence shape,0.0066,0.0029,0.0022,0.0107
+punctuation/caps,0.0036,0.002,0.0012,0.0068
+connectives/voice,0.0016,0.0034,-0.004,0.0048
+surface errors,0.0005,0.0014,-0.001,0.0034

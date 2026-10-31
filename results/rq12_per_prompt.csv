@@ -1,0 +1,49 @@
+algo,model,prompt,QWK
+GB,M1,Cell phones at school,0.7270156564109768
+GB,M1,Community service,0.6939953625969457
+GB,M1,Distance learning,0.8063415691621864
+GB,M1,Grades for extracurricular activities,0.7389010043501244
+GB,M1,Mandatory extracurricular activities,0.7666594019985427
+GB,M1,Phones and driving,0.7596188147971981
+GB,M1,Seeking multiple opinions,0.7781380081455969
+GB,M1,Summer projects,0.7401334074485826
+GB,M2,Cell phones at school,0.7477102356402188
+GB,M2,Community service,0.7373186703010934
+GB,M2,Distance learning,0.8410379281649157
+GB,M2,Grades for extracurricular activities,0.7426740876459133
+GB,M2,Mandatory extracurricular activities,0.7850922131147541
+GB,M2,Phones and driving,0.8011754880796684
+GB,M2,Seeking multiple opinions,0.7920142193360578
+GB,M2,Summer projects,0.7534614606193127
+GB,M3,Cell phones at school,0.7345941326994788
+GB,M3,Community service,0.7329707936805587
+GB,M3,Distance learning,0.8181515096202693
+GB,M3,Grades for extracurricular activities,0.7437299628822005
+GB,M3,Mandatory extracurricular activities,0.7752852538660284
+GB,M3,Phones and driving,0.7711542863954508
+GB,M3,Seeking multiple opinions,0.7875715773626784
+GB,M3,Summer projects,0.741840232385768
+RF,M1,Cell phones at school,0.7126096317975252
+RF,M1,Community service,0.6909710446845275
+RF,M1,Distance learning,0.8071995920488583
+RF,M1,Grades for extracurricular activities,0.7241619209010335
+RF,M1,Mandatory extracurricular activities,0.7577028645098507
+RF,M1,Phones and driving,0.7505907400871191
+RF,M1,Seeking multiple opinions,0.763571238633342
+RF,M1,Summer projects,0.7353284461146928
+RF,M2,Cell phones at school,0.7319446559743197
+RF,M2,Community service,0.6927473868434996
+RF,M2,Distance learning,0.8370048071222032
+RF,M2,Grades for extracurricular activities,0.7208120022331721
+RF,M2,Mandatory extracurricular activities,0.7644187226554396
+RF,M2,Phones and driving,0.7888666773282158
+RF,M2,Seeking multiple opinions,0.7522977753056276
+RF,M2,Summer projects,0.758230129084607
+RF,M3,Cell phones at school,0.7185955646699956
+RF,M3,Community service,0.6995788187634633
+RF,M3,Distance learning,0.8061721558431807
+RF,M3,Grades for extracurricular activities,0.7273180829921534
+RF,M3,Mandatory extracurricular activities,0.7552224752924951
+RF,M3,Phones and driving,0.7497723337755493
+RF,M3,Seeking multiple opinions,0.7662811873133846
+RF,M3,Summer projects,0.7418300101861075

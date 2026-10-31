@@ -1,0 +1,4 @@
+class,n,recall_LR_tfidf,f1_LR_tfidf
+Adequate,60156,0.674,0.753
+Effective,16009,0.587,0.473
+Ineffective,1474,0.192,0.073

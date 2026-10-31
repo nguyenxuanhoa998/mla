@@ -1,0 +1,7 @@
+task,model,macroF1_pooled,macroF1_mean_prompts,std,accuracy,recall_Rebuttal,recall_Ineffective
+Step1,majority,0.057,0.056,0.004,0.293,0.0,
+Step1,LR position+length,0.568,0.551,0.049,0.615,0.411,
+Step1,LR TF-IDF + position,0.688,0.666,0.055,0.745,0.529,
+Step2,majority,0.291,0.293,0.015,0.775,,0.0
+Step2,LR position+length,0.329,0.316,0.031,0.405,,0.484
+Step2,LR TF-IDF + position,0.433,0.413,0.017,0.647,,0.192

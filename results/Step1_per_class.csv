@@ -1,0 +1,9 @@
+class,n,recall_LR_tfidf,f1_LR_tfidf
+Claim,28174,0.698,0.715
+Concluding Statement,6999,0.958,0.921
+Counterclaim,3139,0.555,0.462
+Evidence,23968,0.823,0.815
+Lead,5063,0.951,0.836
+Position,7880,0.555,0.641
+Rebuttal,2419,0.529,0.322
+none,18565,0.719,0.789

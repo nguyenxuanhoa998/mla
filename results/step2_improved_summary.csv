@@ -1,0 +1,12 @@
+model,weights,macroF1_pooled,macroF1_mean_prompts,SD_prompts,worst_prompt,accuracy,F1_Adequate,F1_Effective,F1_Ineffective,P_Ineffective,R_Ineffective
+S0 majority (Adequate),-,0.291,0.293,0.016,0.272,0.775,0.873,0.0,0.0,0.0,0.0
+S1 role+length+position,argmax,0.451,0.42,0.058,0.313,0.812,0.888,0.457,0.007,0.417,0.003
+S1 role+length+position,tuned on inner OOF,0.504,0.47,0.04,0.397,0.77,0.852,0.539,0.122,0.103,0.151
+S2 +essay context,argmax,0.46,0.422,0.066,0.301,0.815,0.889,0.482,0.009,0.318,0.005
+S2 +essay context,tuned on inner OOF,0.511,0.469,0.049,0.381,0.779,0.859,0.547,0.127,0.114,0.144
+S3 +essay M1 features,argmax,0.464,0.43,0.062,0.308,0.816,0.889,0.498,0.004,0.273,0.002
+S3 +essay M1 features,tuned on inner OOF,0.509,0.477,0.043,0.399,0.778,0.858,0.549,0.12,0.102,0.145
+S4 +TF-IDF text signal,argmax,0.466,0.431,0.062,0.312,0.816,0.889,0.5,0.008,0.375,0.004
+S4 +TF-IDF text signal,tuned on inner OOF,0.51,0.477,0.044,0.396,0.778,0.858,0.548,0.126,0.106,0.153
+LR TF-IDF only,argmax,0.43,0.395,0.055,0.3,0.796,0.878,0.411,0.0,0.0,0.0
+LR TF-IDF only,tuned on inner OOF,0.448,0.417,0.036,0.372,0.735,0.831,0.473,0.041,0.031,0.063
